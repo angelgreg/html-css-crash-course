@@ -1,0 +1,6 @@
+[submodule "learning-html"]
+	path = learning-html
+	url = https://github.com/angelgreg/html-css-crash-course.git
+[submodule "html-forms"]
+	path = html-forms
+	url = https://github.com/angelgreg/html-css-crash-course.git
